@@ -1,2 +1,4 @@
 # learning by scraping
-first attemds in learning webscraping
+## first attemds in learning webscraping
+
+This is a collection of simple sample scrapers I created.
